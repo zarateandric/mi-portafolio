@@ -1,7 +1,7 @@
 # Portafolio !Hola, bienvenidos a mi proyecto de portafolio!
 
 <h4 align="center">
-:construction: Proyecto en construcción :construction:
+:construction: Proyecto en desarrollo :construction:
 </h4>
 
 ## En este primer portafolio utilicé las siguientes herramientas:
